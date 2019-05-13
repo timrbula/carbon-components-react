@@ -3,7 +3,6 @@ node_modules
 es
 lib
 umd
-storybook-static
 storybook-static-preview/stable
 storybook-static-preview/experimental
 
